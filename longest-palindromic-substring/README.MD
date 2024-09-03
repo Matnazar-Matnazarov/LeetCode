@@ -3,7 +3,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-%238732bf.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/Python-%233877ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Medium-orange?style=for-the-badge)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Medium-orange?style=for-the-badge)](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## 📝 Problem Description
 
