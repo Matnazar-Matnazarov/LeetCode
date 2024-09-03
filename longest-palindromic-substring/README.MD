@@ -39,3 +39,4 @@ The solution employs various algorithms to find the longest palindromic substrin
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Matnazar-Matnazarov/LeetCode.git
+   cd LeetCode/longest-palindromic-substring
