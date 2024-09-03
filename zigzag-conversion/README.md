@@ -53,6 +53,8 @@ Write a function that converts a given string into a zigzag pattern based on the
 - **Time Complexity:** O(n), where n is the length of the string.
 - **Space Complexity:** O(n), to store the characters in the rows.
 
+## 🛠️ Getting Started
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Matnazar-Matnazarov/LeetCode.git
